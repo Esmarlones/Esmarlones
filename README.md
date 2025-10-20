@@ -2,9 +2,9 @@
 
 **`Desenvolvedor Backend em formação | Profissional de TI`**
 
-Me chamo **Esmarlones Junior**, sou profissional de TI com experiência sólida em infraestrutura, suporte técnico e redes, atualmente cursando **Engenharia de Software** e focado em **desenvolvimento backend com Java**.  
+My name is **Esmarlones Junior**. I am an IT professional with solid experience in infrastructure, technical support, and networking. I am currently pursuing a degree in **Software Engineering** and focusing on **backend development with Java**.  
 
-Também apresento o podcast "[Debugando Ideias](https://www.youtube.com/@podcastdebugandoideias)" no YouTube, onde discuto temas de tecnologia e inovação, e mantenho meu perfil profissional no LinkedIn "[Esmarlones Junior](https://www.linkedin.com/in/esmarlones-j%C3%BAnior-11a363119/)".
+I also host the podcast "[Debugando Ideias](https://www.youtube.com/@podcastdebugandoideias)" on YouTube, where I discuss technology and innovation topics, and I maintain my professional profile on LinkedIn "[Esmarlones Junior](https://www.linkedin.com/in/esmarlones-j%C3%BAnior-11a363119/)".
 
 <p align="left">
     <a href="https://www.youtube.com/@podcastdebugandoideias?sub_confirmation=1">
