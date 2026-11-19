@@ -1,105 +1,83 @@
-# 👨‍💻 Esmarlones Junior
+👨‍💻 Esmarlones Junior
+Desenvolvedor Backend Java em formação | Profissional de Tecnologia da Informação
 
-**`Desenvolvedor Backend em formação | Profissional de TI`**
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Bem-vindo+ao+meu+GitHub!;Construindo+solu%C3%A7%C3%B5es+com+Java;Evoluindo+no+desenvolvimento+Backend;Transformando+ideias+em+c%C3%B3digo!" alt="Typing SVG" />
+</p>
 
-My name is **Esmarlones Junior**. I am an IT professional with solid experience in infrastructure, technical support, and networking. I am currently pursuing a degree in **Software Engineering** and focusing on **backend development with Java**.  
+🚀 Sobre mim
 
-I also host the podcast "[Debugando Ideias](https://www.youtube.com/@podcastdebugandoideias)" on YouTube, where I discuss technology and innovation topics, and I maintain my professional profile on LinkedIn "[Esmarlones Junior](https://www.linkedin.com/in/esmarlones-j%C3%BAnior-11a363119/)".
+Olá! Sou Esmarlones Junior, profissional de Tecnologia da Informação, com experiência em infraestrutura, suporte técnico e redes de computadores.
+
+Atualmente, estou cursando Engenharia de Software e direcionando minha carreira para o Desenvolvimento Backend com Java.
+
+Acredito que a tecnologia é uma ferramenta poderosa para resolver problemas, criar soluções e transformar ideias em realidade. Por isso, estou sempre buscando novos conhecimentos e desenvolvendo projetos para aprimorar minhas habilidades.
+
+🎯 Meu foco atual:
+
+Desenvolvimento Backend com Java.
+Lógica de programação e orientação a objetos.
+Banco de dados e SQL.
+Desenvolvimento de APIs.
+Boas práticas de programação e arquitetura de software.
+
+🎙️ Também sou apresentador do podcast Debugando Ideias, onde converso sobre tecnologia, inovação e o universo da TI.
+
+🛠️ Tecnologias e ferramentas
+💻 Desenvolvimento
 
 <p align="left">
-    <a href="https://www.youtube.com/@podcastdebugandoideias?sub_confirmation=1">
-        <img 
-            alt="Inscreva-se no YouTube" 
-            title="Inscreva-se no meu podcast" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCrcUKAv32vHPs0TDsrM1xrQ?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@podcastdebugandoideias">
-        <img 
-            alt="Visualizações no YouTube" 
-            title="Visualizações do podcast" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCrcUKAv32vHPs0TDsrM1xrQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Esmarlones">
-        <img 
-            alt="Total de estrelas GitHub" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Esmarlones?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Esmarlones?tab=followers">
-        <img 
-            alt="Seguidores GitHub" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Esmarlones?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<img src="https://skillicons.dev/icons?i=java,html,css,mysql" />
 </p>
 
----
-### 🤖 Linguagens e Tecnologias
+⚙️ Ferramentas
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-
-</br>
-</br>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Esmarlones&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esmarlones&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
 
+📚 Atualmente estudando
+☕ Java e Programação Orientada a Objetos (POO).
+🗄️ Banco de dados relacionais e MySQL.
+🔌 Desenvolvimento de APIs REST.
+🏗️ Estrutura de dados e algoritmos.
+🌱 Evolução das práticas de desenvolvimento Backend.
+📂 Projetos em destaque
+
+Aqui você encontrará projetos desenvolvidos durante minha jornada de aprendizado, com foco em lógica de programação, Java, banco de dados e desenvolvimento Backend.
+
+🚧 Em constante evolução: novos projetos e funcionalidades serão adicionados conforme avanço nos estudos.
+📊 GitHub Analytics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Esmarlones&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esmarlones&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br" />
+</p>
+
+<p align="center">
+<img width="95%" src="https://streak-stats.demolab.com?user=Esmarlones&theme=tokyonight&locale=pt_BR" />
+</p>
+
+🌐 Vamos nos conectar?
+
+<p align="left">
+<a href="https://www.linkedin.com/in/esmalones-j%C3%BAnior-11a363119/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/@podcastdebugandoideias">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="https://github.com/Esmarlones">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+🎙️ Podcast: Debugando Ideias
+
+<p align="center">
+<i>"A melhor maneira de aprender tecnologia é colocando a mão no código."</i>
+</p>
+
+<p align="center">
+⭐ Obrigado pela visita! Fique à vontade para explorar meus repositórios.
+</p>
